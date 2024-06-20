@@ -3,7 +3,10 @@
 }
 
 .container a{ 
+  width: 50%;
+  border-radius: 20%;
   margin-top: 5%;
+  margin-left: 25%;
   background-color: rgb(238, 38, 7);
 }
 .container a:hover{

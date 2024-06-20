@@ -5,7 +5,7 @@
 
 }
 body{
-   background-image: url(/Log-in-main/images/photo_٢٠٢٤-٠٢-١١_٢٣-٤٢-٥٢.jpg)
+   background-image: url(/Log-in-main/images/vip.jpg)
 }
 
 .container{
@@ -60,3 +60,10 @@ h6{
 
 
 
+html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+  
