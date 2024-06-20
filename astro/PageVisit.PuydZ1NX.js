@@ -1,0 +1,1 @@
+import{r as s}from"./index.TBYTbSNu.js";import{i as e}from"./jwt.29ZsqLlk.js";import{h as i}from"./http.kuYOMQBZ.js";function n(t){const{resourceId:o,resourceType:r}=t;return s.useEffect(()=>{e()&&i("https://api.roadmap.sh/v1-visit",{...r&&{resourceType:r,resourceId:o}}).finally(()=>{})},[]),null}export{n as PageVisit};

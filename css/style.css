@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin:0 ;
+    box-sizing: border-box;
+
+}
+body{
+   background-image: url(/Log-in-main/images/photo_٢٠٢٤-٠٢-١١_٢٣-٤٢-٥٢.jpg)
+}
+
+.container{
+    margin-top: 10%;
+    width: 55%;
+    
+    
+}
+.contac{
+    padding: 50px;
+   
+}
+h6{
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(238, 38, 7);
+}
+.username,.username:focus{
+    background-color: black;
+    color: white !important;
+
+}
+.usernamee{
+    background-color: rgb(238, 38, 7);
+    color: white !important;
+     ;
+
+}
+
+.username:focus{
+    background-color: rgb(238, 38, 7);
+  
+   
+}
+::placeholder{
+    color:rgb(238, 38, 7) !important;
+    background-color: black;
+    box-shadow: black;
+    
+}
+.submit{
+    border: 2px solid  ;
+    transition: backgroun 0.5s ;
+   
+    background-color: rgb(238, 38, 7);
+}
+.submit:hover{
+   background-color: rgb(221, 35, 6);
+   
+}
+
+
+

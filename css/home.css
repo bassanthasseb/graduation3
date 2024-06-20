@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #24353f;
+}
+nav{
+    background-color: #24353f;
+box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    width: 100%;
+}
+@media(max-width:991px){
+    .nav-item{
+        margin: auto;
+    }
+}
+.container{
+   position: relative;
+   top: 150px; 
+}
+.group{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    color: #18a2b8;
+    
+}
